@@ -1,0 +1,5 @@
+[
+    ["/sub1/",  "http://{myip:port}/"              ],
+    ["/sub2/",  "http://{mydomain:port/subpath}/"  ],
+    ["/",       "http://localhost/"                ]   
+]
